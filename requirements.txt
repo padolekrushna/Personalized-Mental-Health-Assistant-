@@ -4,5 +4,5 @@ numpy
 scikit-learn
 nltk
 transformers
-torch
+torch  # OR tensorflow (choose only one)
 openpyxl
