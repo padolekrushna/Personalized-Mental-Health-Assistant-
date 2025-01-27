@@ -28,7 +28,8 @@ def preprocess_text(text):
 
 # Load dataset
 def load_data():
-    return pd.read_excel("mental_health_assistant_dataset.xlsx", engine='openpyxl')
+    return pd.read_excel("mental_health_assistant_dataset.xlsx", engine="openpyxl")
+
 
 data = load_data()
 data['Processed_Text'] = data['User Query'].apply(preprocess_text)
