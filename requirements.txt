@@ -1,8 +1,0 @@
-streamlit
-pandas
-numpy
-scikit-learn
-nltk
-transformers
-torch  # OR tensorflow (choose only one)
-openpyxl
