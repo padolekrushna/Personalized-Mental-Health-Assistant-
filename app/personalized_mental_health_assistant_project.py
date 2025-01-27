@@ -20,7 +20,8 @@ nltk.download('stopwords')
 import nltk
 nltk.download('wordnet')
 # Load dataset
-df = pd.read_excel("/content/mental_health_assistant_dataset.xlsx",engine='openpyxl')
+data = pd.read_excel("mental_health_assistant_dataset.xlsx", engine="openpyxl")
+
 
 # Display dataset information
 print(df.head())
