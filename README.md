@@ -1,5 +1,7 @@
 # Personalized Mental Health Assistant
 
+#Project link : https://xdp85jx27efpurucd23ni8.streamlit.app/
+
 ## Overview
 This is a Streamlit-based Mental Health Assistant that uses machine learning to analyze user input and provide personalized emotional support and action suggestions.
 
